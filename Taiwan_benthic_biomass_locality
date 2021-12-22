@@ -1,3 +1,4 @@
+Region	Ocean	Latitude (N)	Longitude (E)	Location	Depth (m)	Depth range	Biomass	unit	raw data/ converted data	Benthos	Sieve mesh size (mm) lower limit	Sieve mesh size (mm) upper limit	sampling gear	Reference	Reference for biomass conversion factors	Location	density
 Taiwan	Pacific Ocean	23.65166	119.52856	小門嶼	NA	near-shore (0-50m)	11.73677589	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
 Taiwan	Pacific Ocean	23.71258	119.56742	北鐵砧	NA	near-shore (0-50m)	19.73492932	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
 Taiwan	Pacific Ocean	23.55648	119.54309	四角嶼	NA	near-shore (0-50m)	216.3570177	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
