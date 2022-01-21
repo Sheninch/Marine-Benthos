@@ -1,40 +1,41 @@
-Region	Ocean	Latitude (N)	Longitude (E)	Station	Depth (m)	Depth range	Biomass	unit	raw data/ converted data	Benthos	Sieve mesh size (mm) lower limit	Sieve mesh size (mm) upper limit	sampling gear	Reference	Reference for biomass conversion factors	Location	density
-Taiwan	Pacific Ocean	23.65166	119.52856	小門嶼	NA	near-shore (0-50m)	11.73677589	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.71258	119.56742	北鐵砧	NA	near-shore (0-50m)	19.73492932	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.55648	119.54309	四角嶼	NA	near-shore (0-50m)	216.3570177	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.78733	119.60176	目斗嶼	NA	near-shore (0-50m)	6.200878667	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.71495	119.55799	姑婆嶼	NA	near-shore (0-50m)	5.45279653	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.49275	119.5205	虎井嶼	NA	near-shore (0-50m)	23.37242347	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.52964	119.55956	青灣內灣	NA	near-shore (0-50m)	76.93071482	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.51339	119.52228	桶盤嶼	NA	near-shore (0-50m)	8.122536304	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.67268	119.6388	澎澎灘	NA	near-shore (0-50m)	17.51729782	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.5424	119.53077	雞籠嶼	NA	near-shore (0-50m)	30.00781904	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.53386	119.61486	懷恩堂	NA	near-shore (0-50m)	24.02413846	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.65721	119.5224	鯨魚洞	NA	near-shore (0-50m)	4.847142469	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu
-Taiwan	Pacific Ocean	23.19146	119.43095	七美	NA	near-shore (0-50m)	2.132158148	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.24467	119.61939	西吉嶼	NA	near-shore (0-50m)	61.31427189	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.2739	119.50825	西嶼坪	NA	near-shore (0-50m)	8.084347848	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.25038	119.67429	東吉嶼	NA	near-shore (0-50m)	11.84958032	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.25962	119.51113	東嶼坪	NA	near-shore (0-50m)	10.98289414	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.4047	119.31565	花嶼	NA	near-shore (0-50m)	9.745675163	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.27507	119.50363	南鐵砧	NA	near-shore (0-50m)	19.22027356	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.32628	119.32109	貓嶼	NA	near-shore (0-50m)	13.06776435	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	23.28883	119.50281	頭巾嶼	NA	near-shore (0-50m)	24.50829568	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu
-Taiwan	Pacific Ocean	25.121	121.898	82.5	NA	near-shore (0-50m)	27.78399593	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.02667	121.97327	小香蘭	NA	near-shore (0-50m)	1.421136089	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.018	121.99	卯澳	NA	near-shore (0-50m)	45.04055451	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.1656	121.7224	外木山	NA	near-shore (0-50m)	11.15502495	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.15898	121.7405	協和	NA	near-shore (0-50m)	8.407627708	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.16083	121.7715	和平島	NA	near-shore (0-50m)	73.03380657	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.424	121.946	花瓶嶼	NA	near-shore (0-50m)	4.757597975	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.023	121.963	桂安漁港	NA	near-shore (0-50m)	92.29299128	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.018	121.999	馬崗	NA	near-shore (0-50m)	12.3160341	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.191	121.785	基隆嶼	NA	near-shore (0-50m)	5.673187106	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.13507	121.8199	深澳	NA	near-shore (0-50m)	25.31929186	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.629	122.078	彭佳嶼	NA	near-shore (0-50m)	21.49761606	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.12585	121.91388	鼻頭	NA	near-shore (0-50m)	58.09005916	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.14431	121.80504	潮境	NA	near-shore (0-50m)	33.62455512	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.1277	121.8314	蝙蝠洞	NA	near-shore (0-50m)	4.813939978	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.11339	121.91933	龍洞	NA	near-shore (0-50m)	8.982417716	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North
-Taiwan	Pacific Ocean	25.027083	121.025783	大潭	8.4	near-shore (0-50m)	1.516261456	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	TY
-Taiwan	Pacific Ocean	25.006167	121.011167	觀新	9	near-shore (0-50m)	1.623076301	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	TY
+Region	Ocean	Latitude (N)	Longitude (E)	Station	Depth (m)	Depth range	Biomass	unit	raw data/ converted data	Benthos	Sieve mesh size (mm) lower limit	Sieve mesh size (mm) upper limit	sampling gear	Reference	Reference for biomass conversion factors	Location	density	MPA(True = 1)
+Taiwan	Pacific Ocean	23.65166	119.52856	小門嶼	NA	near-shore (0-50m)	11.73677589	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.71258	119.56742	北鐵砧	NA	near-shore (0-50m)	19.73492932	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.55648	119.54309	四角嶼	NA	near-shore (0-50m)	216.3570177	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.78733	119.60176	目斗嶼	NA	near-shore (0-50m)	6.200878667	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.71495	119.55799	姑婆嶼	NA	near-shore (0-50m)	5.45279653	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.49275	119.5205	虎井嶼	NA	near-shore (0-50m)	23.37242347	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.52964	119.55956	青灣內灣	NA	near-shore (0-50m)	76.93071482	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.51339	119.52228	桶盤嶼	NA	near-shore (0-50m)	8.122536304	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.67268	119.6388	澎澎灘	NA	near-shore (0-50m)	17.51729782	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.5424	119.53077	雞籠嶼	NA	near-shore (0-50m)	30.00781904	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.53386	119.61486	懷恩堂	NA	near-shore (0-50m)	24.02413846	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.65721	119.5224	鯨魚洞	NA	near-shore (0-50m)	4.847142469	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	N. Penghu	0
+Taiwan	Pacific Ocean	23.19146	119.43095	七美	NA	near-shore (0-50m)	2.132158148	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	0
+Taiwan	Pacific Ocean	23.24467	119.61939	西吉嶼	NA	near-shore (0-50m)	61.31427189	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	1
+Taiwan	Pacific Ocean	23.2739	119.50825	西嶼坪	NA	near-shore (0-50m)	8.084347848	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	1
+Taiwan	Pacific Ocean	23.25038	119.67429	東吉嶼	NA	near-shore (0-50m)	11.84958032	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	1
+Taiwan	Pacific Ocean	23.25962	119.51113	東嶼坪	NA	near-shore (0-50m)	10.98289414	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	1
+Taiwan	Pacific Ocean	23.4047	119.31565	花嶼	NA	near-shore (0-50m)	9.745675163	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	0
+Taiwan	Pacific Ocean	23.27507	119.50363	南鐵砧	NA	near-shore (0-50m)	19.22027356	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	1
+Taiwan	Pacific Ocean	23.32628	119.32109	貓嶼	NA	near-shore (0-50m)	13.06776435	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	0
+Taiwan	Pacific Ocean	23.28883	119.50281	頭巾嶼	NA	near-shore (0-50m)	24.50829568	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	S. Penghu	1
+Taiwan	Pacific Ocean	25.121	121.898	82.5	NA	near-shore (0-50m)	27.78399593	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.02667	121.97327	小香蘭	NA	near-shore (0-50m)	1.421136089	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.018	121.99	卯澳	NA	near-shore (0-50m)	45.04055451	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.1656	121.7224	外木山	NA	near-shore (0-50m)	11.15502495	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	1
+Taiwan	Pacific Ocean	25.15898	121.7405	協和	NA	near-shore (0-50m)	8.407627708	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	1
+Taiwan	Pacific Ocean	25.16083	121.7715	和平島	NA	near-shore (0-50m)	73.03380657	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	1
+Taiwan	Pacific Ocean	25.424	121.946	花瓶嶼	NA	near-shore (0-50m)	4.757597975	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.023	121.963	桂安漁港	NA	near-shore (0-50m)	92.29299128	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.018	121.999	馬崗	NA	near-shore (0-50m)	12.3160341	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.191	121.785	基隆嶼	NA	near-shore (0-50m)	5.673187106	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.13507	121.8199	深澳	NA	near-shore (0-50m)	25.31929186	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	1
+Taiwan	Pacific Ocean	25.629	122.078	彭佳嶼	NA	near-shore (0-50m)	21.49761606	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.12585	121.91388	鼻頭	NA	near-shore (0-50m)	58.09005916	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.14431	121.80504	潮境	NA	near-shore (0-50m)	33.62455512	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	1
+Taiwan	Pacific Ocean	25.1277	121.8314	蝙蝠洞	NA	near-shore (0-50m)	4.813939978	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	1
+Taiwan	Pacific Ocean	25.11339	121.91933	龍洞	NA	near-shore (0-50m)	8.982417716	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	North	0
+Taiwan	Pacific Ocean	25.027083	121.025783	大潭	8.4	near-shore (0-50m)	1.516261456	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	TY	0
+Taiwan	Pacific Ocean	25.006167	121.011167	觀新	9	near-shore (0-50m)	1.623076301	g WM/ m2	raw data	macrobenthos	0.500	NA	plastic tube corer	NA	NA	TY	0
+
